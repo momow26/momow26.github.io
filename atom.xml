@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.mengfoo.cn/"/>
   <updated>2018-06-06T11:19:11.901Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.mengfoo.cn/</id>
   
   <author>
     <name>王墨墨</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/06/06/hello-world/"/>
-    <id>http://yoursite.com/2018/06/06/hello-world/</id>
+    <link href="http://www.mengfoo.cn/undefined/uncategorized/2018-06-06-hello-world.html"/>
+    <id>http://www.mengfoo.cn/undefined/uncategorized/2018-06-06-hello-world.html</id>
     <published>2018-06-06T11:19:11.900Z</published>
     <updated>2018-06-06T11:19:11.901Z</updated>
     
