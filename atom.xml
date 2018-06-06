@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>萌亖的博客</title>
   
   
   <link href="/atom.xml" rel="self"/>
@@ -8,11 +8,6 @@
   <link href="http://yoursite.com/"/>
   <updated>2018-06-06T11:19:11.901Z</updated>
   <id>http://yoursite.com/</id>
-  
-  <author>
-    <name>John Doe</name>
-    
-  </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
